@@ -1,0 +1,46 @@
+.container {
+    padding: 20px 40px;
+    display: flex;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+
+}
+.card-img {
+    width: 125px;
+    height: 168px;
+    border-radius: 9px;
+    object-fit: cover;
+}
+.info {
+    margin-left: 20px;
+}
+.first-row {
+    padding-top: 20px;
+    padding-bottom: 7px;
+}
+.dot-img {
+    margin-right: 5px;
+}
+.first-row span {
+    margin-right: 10px;
+    font-weight: 600;
+    font-size: 12px;
+}
+.first-row a {
+    color: #918E9B;
+    font-weight: 300;
+    font-size: 13px;
+}
+.card-title {
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.date {
+    padding-bottom: 9px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.card-info {
+    font-size: 12px;
+    font-weight: 400;
+}
